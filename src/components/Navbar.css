@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #5febf5;
+    
+    
+}
+
+.purple {
+    color: #5febf5;
+    text-shadow:0px 0px 12px #6796fc;
+    
+}
